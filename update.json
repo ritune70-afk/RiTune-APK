@@ -1,7 +1,7 @@
 {
     "latestVersion":  "1.0",
-    "updateNotes":  "• Initial release RiTune 1.0\n• Baseline built from telegram debug APK\n• Fast song loading (\u003c0.5s start)\n• English locale default\n• AOD single tap return to player\n• Fullscreen uncropped music background image\n• Uncropped high-definition turntable icon",
-    "publishedAt":  "2026-07-22T23:30:00Z",
+    "updateNotes":  "• Initial release RiTune 1.0\n• Baseline built from telegram working debug APK\n• Fix YouTube song playback (ANDROID_MUSIC main client)\n• In-app custom GitHub update system enabled\n• Fast song loading (\u003c0.5s start)\n• English locale default\n• AOD single tap return to player\n• Fullscreen uncropped music background image\n• Uncropped high-definition turntable icon",
+    "publishedAt":  "2026-07-22T23:45:00Z",
     "downloadUrl":  "https://raw.githubusercontent.com/ritune70-afk/RiTune-APK/main/RiTune.1.0.apk",
     "tagName":  "v1.0"
 }
