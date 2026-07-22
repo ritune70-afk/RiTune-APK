@@ -1,0 +1,7 @@
+{
+    "latestVersion":  "3.3.0",
+    "updateNotes":  "• Faster song loading (\u003c0.5s start)\n• Custom update system integration\n• AOD single tap return to player\n• Fullscreen uncropped music background image\n• High fidelity sound quality 100% preserved",
+    "publishedAt":  "2026-07-22T22:50:00Z",
+    "downloadUrl":  "https://raw.githubusercontent.com/ritune70-afk/RiTune-APK/main/RiTune.apk",
+    "tagName":  "v3.3.0"
+}
